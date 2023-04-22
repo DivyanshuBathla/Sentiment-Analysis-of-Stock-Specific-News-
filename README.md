@@ -1,6 +1,6 @@
 
 
-# Stock Market Sentiment Analysis Model
+# "Stock Market Sentiment Analysis: Predicting Future Trends through News Headline Analysis"
 
 The stock market's non-linear nature makes achieving a considerable rate of return on investment (ROI) a challenging task. The dynamic nature of the stock market and susceptibility to various factors, such as stock-specific news, company profile, and government policy, make it challenging to predict and generate significant profits. To address this issue, the model utilizes sentiment analysis (SA) of stock-specific news headlines to predict the future trend of the stock market.
 
